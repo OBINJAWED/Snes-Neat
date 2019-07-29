@@ -26,4 +26,11 @@ The agent receives a reward for each frame that it moves right.
 • Super Mario World Game
 
 
+## Results
+
+The agent was able to complete the level in about 4 hours of training. 
+
+https://www.youtube.com/watch?v=bIpc6cKyy3M&feature=youtu.be
+
+
 Tested on MAC OSX
