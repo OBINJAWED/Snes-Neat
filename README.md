@@ -2,7 +2,7 @@
 
 ## Overview
 
-Train a neural network to play a video game using raw pixel data. 
+Trained a neural network to play a video game using raw pixel data. 
 The Gym Retro platform includes an emulator for the Super Nintendo. The emulator used is
 SNES9x. 
 
