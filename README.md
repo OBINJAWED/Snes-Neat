@@ -30,6 +30,8 @@ The agent receives a reward for each frame that it moves right.
 
 The agent was able to complete the level in about 4 hours of training. 
 
+Click on the image below to watch the agent complete the level. 
+
 [![https://www.mariowiki.com/images/9/97/YoshisIsland2.png](http://img.youtube.com/vi/bIpc6cKyy3M/0.jpg)](http://www.youtube.com/watch?v=bIpc6cKyy3M "Yoshi_Island_2")
 
 
