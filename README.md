@@ -3,10 +3,18 @@
 ## Overview
 
 Trained a neural network to play a video game using raw pixel data. 
-The Gym Retro platform includes an emulator for the Super Nintendo. The emulator used is
-SNES9x. 
+
+The algorithm is NEAT (Neuro-Evolution of Augmenting Topologies). 
+
+The Gym Retro platform includes an emulator for the Super Nintendo. 
+
+The emulator used is SNES9x. 
 
 The agent receives a reward for each frame that it moves right.
+
+Modified from https://gitlab.com/lucasrthompson/Sonic-Bot-In-OpenAI-and-NEAT
+
+Agents performance may be improved by reducing the action-space. Will update in future with this additon. 
 
 
 ## Requirements:
